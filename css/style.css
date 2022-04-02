@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Nunito:wght@300;400;700&family=Supermercado+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+  text-transform: uppercase;
+  scroll-behavior: smooth;
+}
+
+.banner2 {
+  background-image: url(../images/ddg-bg.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.carousel-item img {
+  min-height: 200px;
+}
+
+.bg-1 {
+  background-color: yellowgreen;
+}
+
+.bg-2 {
+  background-color: lightseagreen;
+}
+
+.bg-3 {
+  background-color: gray;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.fs-7 {
+  font-size: 0.8rem;
+}
